@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+coverage/
+.DS_Store
+npm-debug.log*
+.vscode/
+
+# Jest
+jest-coverage/
+
+# Logs
+logs
+*.log
+
+# OS
+Thumbs.db
